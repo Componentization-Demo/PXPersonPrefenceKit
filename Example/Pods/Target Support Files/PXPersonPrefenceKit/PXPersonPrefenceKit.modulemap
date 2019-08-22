@@ -1,0 +1,6 @@
+framework module PXPersonPrefenceKit {
+  umbrella header "PXPersonPrefenceKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

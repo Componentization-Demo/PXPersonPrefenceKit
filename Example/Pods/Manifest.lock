@@ -1,0 +1,16 @@
+PODS:
+  - PXPersonPrefenceKit (1)
+
+DEPENDENCIES:
+  - PXPersonPrefenceKit (from `../`)
+
+EXTERNAL SOURCES:
+  PXPersonPrefenceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PXPersonPrefenceKit: 5346b4e7f890a796e80ac1e608794bad4ec30761
+
+PODFILE CHECKSUM: 4a24f782994d8331fcb88caf5ca2ee9f41e232b7
+
+COCOAPODS: 1.7.5

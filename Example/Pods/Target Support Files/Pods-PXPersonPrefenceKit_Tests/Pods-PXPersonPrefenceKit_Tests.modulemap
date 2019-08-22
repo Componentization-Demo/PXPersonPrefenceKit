@@ -1,0 +1,6 @@
+framework module Pods_PXPersonPrefenceKit_Tests {
+  umbrella header "Pods-PXPersonPrefenceKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

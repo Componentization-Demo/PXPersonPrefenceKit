@@ -1,0 +1,22 @@
+{
+  "name": "PXPersonPrefenceKit",
+  "version": "1",
+  "summary": "A short description of PXPersonPrefenceKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/componentizationdemo/PXPersonPrefenceKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PAdision": "PAdision@example.com"
+  },
+  "source": {
+    "git": "https://github.com/componentizationdemo/PXPersonPrefenceKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PXPersonPrefenceKit/Classes/**/*"
+}
